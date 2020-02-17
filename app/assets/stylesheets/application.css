@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+$gray: red;
+
+body {
+  background: $gray; // Using this variable
+}
